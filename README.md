@@ -10,6 +10,7 @@ Data diambil dari kagle link : https://www.kaggle.com/datasets/colearninglounge/
 7.	Excess kurtosis of the DM-SNR curve.
 8.	Skewness of the DM-SNR curve.
 9.	Class
+
 Metode yang akan digunakan untuk mengelola data adalah SVM (support vector machine). Kernel yang digunakan adalah kernel linear dan RBF (Radial Basis Function).
 Penjelasan kode:
 •	Menggunakan metode SVM dengan kernel Linear dan RBF
